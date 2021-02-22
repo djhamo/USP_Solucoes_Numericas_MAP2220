@@ -1,0 +1,207 @@
+20000 10^-4
+I5 2500
+[root@jacobiano ti]# java -jar ep2map2220.jar
+Processando: ./data/mesh3e1/mesh3e1.mtx
+Matriz: 289x289
+SOR Time: 0:00:00.010 Iteracoes: 15 w: 1.0 Erro: 1.0087056516782683E-4
+SOR Time: 0:00:00.004 Iteracoes: 18 w: 1.25 Erro: 2.8133887336309786E-5
+SOR Time: 0:00:00.010 Iteracoes: 30 w: 1.5 Erro: 3.3726295995336635E-5
+SOR Time: 0:00:00.005 Iteracoes: 53 w: 1.75 Erro: 4.559574179579694E-5
+SOR Time: 0:00:00.011 Iteracoes: 136 w: 1.9 Erro: 4.8992933524202027E-5
+SOR Time: 0:00:01.456 Iteracoes: 20000 w: 2.0 Erro: 0.0
+W ótimo: 1.0 Iterações: 15
+Gc Time: 0:00:00.009 Iteracoes: 17 Erro 3.650971517194499E-5
+GcC1 Time: 0:00:00.010 Iteracoes: 10 Erro 8.553983965865674E-5
+Processando: ./data/bcsstk06/bcsstk06.mtx
+Matriz: 420x420
+SOR Time: 0:00:03.063 Iteracoes: 19554 w: 1.0 Erro: 0.54882124671862
+SOR Time: 0:00:02.313 Iteracoes: 14935 w: 1.25 Erro: 0.32911498625783125
+SOR Time: 0:00:01.558 Iteracoes: 10375 w: 1.5 Erro: 0.1826748787748281
+SOR Time: 0:00:00.860 Iteracoes: 5722 w: 1.75 Erro: 0.07775915896186555
+SOR Time: 0:00:00.387 Iteracoes: 2567 w: 1.9 Erro: 0.027358960134322364
+SOR Time: 0:00:03.005 Iteracoes: 20000 w: 2.0 Erro: 0.0
+W ótimo: 1.9 Iterações: 2567
+Gc Time: 0:00:01.096 Iteracoes: 4775 Erro 3.867157897070691E-11
+GcC1 Time: 0:00:00.181 Iteracoes: 263 Erro 0.02597932268336179
+Processando: ./data/bcsstk21/bcsstk21.mtx
+Matriz: 3600x3600
+SOR Time: 0:03:57.816 Iteracoes: 20000 w: 1.0 Erro: 0.0
+SOR Time: 0:03:21.058 Iteracoes: 16954 w: 1.25 Erro: 0.4646132339537525
+SOR Time: 0:02:09.687 Iteracoes: 10935 w: 1.5 Erro: 0.2580425446477885
+SOR Time: 0:01:06.578 Iteracoes: 5619 w: 1.75 Erro: 0.11041271105400059
+SOR Time: 0:00:29.093 Iteracoes: 2460 w: 1.9 Erro: 0.040149604197166795
+SOR Time: 0:03:55.983 Iteracoes: 20000 w: 2.0 Erro: 0.0
+W ótimo: 1.9 Iterações: 2460
+Gc Time: 0:03:48.027 Iteracoes: 13102 Erro 1.3852257726491358E-9
+GcC1 Time: 0:00:15.261 Iteracoes: 295 Erro 0.0038667230867945276
+Processando: ./data/ex5/ex5.mtx
+Matriz: 27x27
+SOR Time: 0:00:00.000 Iteracoes: 1 w: 1.0 Erro: 5.196152107700281
+SOR Time: 0:00:00.000 Iteracoes: 1 w: 1.25 Erro: 5.19615206331857
+SOR Time: 0:00:00.000 Iteracoes: 1 w: 1.5 Erro: 5.196152172023188
+SOR Time: 0:00:00.000 Iteracoes: 1 w: 1.75 Erro: 5.196152536078171
+SOR Time: 0:00:00.000 Iteracoes: 1 w: 1.9 Erro: 5.196152807317426
+SOR Time: 0:00:00.000 Iteracoes: 1 w: 2.0 Erro: 5.196152887248563
+W ótimo: 2.0 Iterações: 1
+Gc Time: 0:00:00.000 Iteracoes: 57 Erro 4.999499785154776E-7
+GcC1 Time: 0:00:00.000 Iteracoes: 1 Erro 5.196152422706632
+Processando: ./data/Journals/Journals.mtx
+Matriz: 124x124
+SOR Time: 0:00:00.001 Iteracoes: 27 w: 1.0 Erro: 7.27016000400165E-5
+SOR Time: 0:00:00.001 Iteracoes: 41 w: 1.25 Erro: 8.06247334534783E-5
+SOR Time: 0:00:00.001 Iteracoes: 71 w: 1.5 Erro: 1.1296246911922565E-4
+SOR Time: 0:00:00.002 Iteracoes: 163 w: 1.75 Erro: 1.3038920796043548E-4
+SOR Time: 0:00:00.005 Iteracoes: 438 w: 1.9 Erro: 1.498656106899998E-4
+SOR Time: 0:00:00.250 Iteracoes: 20000 w: 2.0 Erro: 0.0
+W ótimo: 1.0 Iterações: 27
+Gc Time: 0:00:00.003 Iteracoes: 149 Erro 2.6250992866816425E-7
+GcC1 Time: 0:00:00.001 Iteracoes: 13 Erro 1.7684614853277825E-5
+Processando: ./data/nos2/nos2.mtx
+Matriz: 957x957
+SOR Time: 0:00:16.856 Iteracoes: 20000 w: 1.0 Erro: 0.0
+SOR Time: 0:00:16.834 Iteracoes: 20000 w: 1.25 Erro: 0.0
+SOR Time: 0:00:16.845 Iteracoes: 20000 w: 1.5 Erro: 0.0
+SOR Time: 0:00:16.843 Iteracoes: 20000 w: 1.75 Erro: 0.0
+SOR Time: 0:00:16.850 Iteracoes: 20000 w: 1.9 Erro: 0.0
+SOR Time: 0:00:16.842 Iteracoes: 20000 w: 2.0 Erro: 0.0
+W ótimo: 2.0 Iterações: 20000
+Gc Time: 0:00:25.024 Iteracoes: 20000 Erro 0.0
+GcC1 Time: 0:00:08.230 Iteracoes: 2219 Erro 15.074185798847406
+Processando: ./data/Trefethen_20b/Trefethen_20b.mtx
+Matriz: 19x19
+SOR Time: 0:00:00.000 Iteracoes: 6 w: 1.0 Erro: 2.117994239125233E-5
+SOR Time: 0:00:00.000 Iteracoes: 11 w: 1.25 Erro: 9.563918883481386E-6
+SOR Time: 0:00:00.000 Iteracoes: 19 w: 1.5 Erro: 2.480507572361989E-5
+SOR Time: 0:00:00.000 Iteracoes: 43 w: 1.75 Erro: 3.5973876943680917E-5
+SOR Time: 0:00:00.000 Iteracoes: 114 w: 1.9 Erro: 4.229347106380979E-5
+SOR Time: 0:00:00.013 Iteracoes: 20000 w: 2.0 Erro: 0.0
+W ótimo: 1.0 Iterações: 6
+Gc Time: 0:00:00.000 Iteracoes: 20 Erro 3.107474382356809E-14
+GcC1 Time: 0:00:00.000 Iteracoes: 7 Erro 3.365281687569274E-5
+Processando: ./data/Trefethen_700/Trefethen_700.mtx
+Matriz: 700x700
+SOR Time: 0:00:00.004 Iteracoes: 9 w: 1.0 Erro: 2.067860581665743E-5
+SOR Time: 0:00:00.005 Iteracoes: 13 w: 1.25 Erro: 1.054870181680808E-5
+SOR Time: 0:00:00.010 Iteracoes: 23 w: 1.5 Erro: 2.616536335997413E-5
+SOR Time: 0:00:00.022 Iteracoes: 52 w: 1.75 Erro: 3.91262248661304E-5
+SOR Time: 0:00:00.058 Iteracoes: 135 w: 1.9 Erro: 4.8202197003500065E-5
+SOR Time: 0:00:08.469 Iteracoes: 20000 w: 2.0 Erro: 0.0
+W ótimo: 1.0 Iterações: 9
+Gc Time: 0:00:00.167 Iteracoes: 263 Erro 3.4865484704453974E-7
+GcC1 Time: 0:00:00.018 Iteracoes: 9 Erro 5.2051317655727955E-5
+
+I7 7500U
+
+C:\Users\Tiago\Documents\USP\MAP2220\MAP2220 - EP2 - Matriz Esparsa>java -jar ep2map2220.jar
+Processando: ./data/mesh3e1/mesh3e1.mtx
+Matriz: 289x289
+SOR Time: 0:00:00.012 Iteracoes: 15 w: 1.0 Erro: 1.0087056516782683E-4
+SOR Time: 0:00:00.007 Iteracoes: 18 w: 1.25 Erro: 2.8133887336309786E-5
+SOR Time: 0:00:00.009 Iteracoes: 30 w: 1.5 Erro: 3.3726295995336635E-5
+SOR Time: 0:00:00.010 Iteracoes: 53 w: 1.75 Erro: 4.559574179579694E-5
+SOR Time: 0:00:00.021 Iteracoes: 136 w: 1.9 Erro: 4.8992933524202027E-5
+SOR Time: 0:00:02.115 Iteracoes: 20000 w: 2.0 Erro: 0.0
+W ótimo: 1.0 Iterações: 15
+Gc Time: 0:00:00.013 Iteracoes: 17 Erro 3.650971517194499E-5
+GcC1 Time: 0:00:00.012 Iteracoes: 10 Erro 8.553983965865674E-5
+Processando: ./data/bcsstk06/bcsstk06.mtx
+Matriz: 420x420
+SOR Time: 0:00:04.407 Iteracoes: 19554 w: 1.0 Erro: 0.54882124671862
+SOR Time: 0:00:03.384 Iteracoes: 14935 w: 1.25 Erro: 0.32911498625783125
+SOR Time: 0:00:02.340 Iteracoes: 10375 w: 1.5 Erro: 0.1826748787748281
+SOR Time: 0:00:01.296 Iteracoes: 5722 w: 1.75 Erro: 0.07775915896186555
+SOR Time: 0:00:00.576 Iteracoes: 2567 w: 1.9 Erro: 0.027358960134322364
+SOR Time: 0:00:04.514 Iteracoes: 20000 w: 2.0 Erro: 0.0
+W ótimo: 1.9 Iterações: 2567
+Gc Time: 0:00:01.447 Iteracoes: 4775 Erro 3.867157897070691E-11
+GcC1 Time: 0:00:00.247 Iteracoes: 263 Erro 0.02597932268336179
+Processando: ./data/bcsstk21/bcsstk21.mtx
+Matriz: 3600x3600
+SOR Time: 0:05:45.707 Iteracoes: 20000 w: 1.0 Erro: 0.0
+SOR Time: 0:04:59.519 Iteracoes: 16954 w: 1.25 Erro: 0.4646132339537525
+SOR Time: 0:03:12.392 Iteracoes: 10935 w: 1.5 Erro: 0.2580425446477885
+SOR Time: 0:01:39.525 Iteracoes: 5619 w: 1.75 Erro: 0.11041271105400059
+SOR Time: 0:00:43.328 Iteracoes: 2460 w: 1.9 Erro: 0.040149604197166795
+SOR Time: 0:05:48.747 Iteracoes: 20000 w: 2.0 Erro: 0.0
+W ótimo: 1.9 Iterações: 2460
+Gc Time: 0:04:35.347 Iteracoes: 13102 Erro 1.3852257726491358E-9
+GcC1 Time: 0:00:18.378 Iteracoes: 295 Erro 0.0038667230867945276
+Processando: ./data/ex5/ex5.mtx
+Matriz: 27x27
+SOR Time: 0:00:00.000 Iteracoes: 1 w: 1.0 Erro: 5.196152107700281
+SOR Time: 0:00:00.000 Iteracoes: 1 w: 1.25 Erro: 5.19615206331857
+SOR Time: 0:00:00.000 Iteracoes: 1 w: 1.5 Erro: 5.196152172023188
+SOR Time: 0:00:00.000 Iteracoes: 1 w: 1.75 Erro: 5.196152536078171
+SOR Time: 0:00:00.000 Iteracoes: 1 w: 1.9 Erro: 5.196152807317426
+SOR Time: 0:00:00.000 Iteracoes: 1 w: 2.0 Erro: 5.196152887248563
+W ótimo: 2.0 Iterações: 1
+Gc Time: 0:00:00.000 Iteracoes: 57 Erro 4.999499785154776E-7
+GcC1 Time: 0:00:00.000 Iteracoes: 1 Erro 5.196152422706632
+Processando: ./data/Journals/Journals.mtx
+Matriz: 124x124
+SOR Time: 0:00:00.000 Iteracoes: 27 w: 1.0 Erro: 7.27016000400165E-5
+SOR Time: 0:00:00.002 Iteracoes: 41 w: 1.25 Erro: 8.06247334534783E-5
+SOR Time: 0:00:00.001 Iteracoes: 71 w: 1.5 Erro: 1.1296246911922565E-4
+SOR Time: 0:00:00.003 Iteracoes: 163 w: 1.75 Erro: 1.3038920796043548E-4
+SOR Time: 0:00:00.009 Iteracoes: 438 w: 1.9 Erro: 1.498656106899998E-4
+SOR Time: 0:00:00.329 Iteracoes: 20000 w: 2.0 Erro: 0.0
+W ótimo: 1.0 Iterações: 27
+Gc Time: 0:00:00.004 Iteracoes: 149 Erro 2.6250992866816425E-7
+GcC1 Time: 0:00:00.001 Iteracoes: 13 Erro 1.7684614853277825E-5
+Processando: ./data/nos2/nos2.mtx
+Matriz: 957x957
+SOR Time: 0:00:23.678 Iteracoes: 20000 w: 1.0 Erro: 0.0
+SOR Time: 0:00:23.936 Iteracoes: 20000 w: 1.25 Erro: 0.0
+SOR Time: 0:00:23.661 Iteracoes: 20000 w: 1.5 Erro: 0.0
+SOR Time: 0:00:23.440 Iteracoes: 20000 w: 1.75 Erro: 0.0
+SOR Time: 0:00:23.570 Iteracoes: 20000 w: 1.9 Erro: 0.0
+SOR Time: 0:00:25.062 Iteracoes: 20000 w: 2.0 Erro: 0.0
+W ótimo: 2.0 Iterações: 20000
+Gc Time: 0:00:33.966 Iteracoes: 20000 Erro 0.0
+GcC1 Time: 0:00:11.376 Iteracoes: 2219 Erro 15.074185798847406
+Processando: ./data/Trefethen_20b/Trefethen_20b.mtx
+Matriz: 19x19
+SOR Time: 0:00:00.000 Iteracoes: 6 w: 1.0 Erro: 2.117994239125233E-5
+SOR Time: 0:00:00.000 Iteracoes: 11 w: 1.25 Erro: 9.563918883481386E-6
+SOR Time: 0:00:00.000 Iteracoes: 19 w: 1.5 Erro: 2.480507572361989E-5
+SOR Time: 0:00:00.000 Iteracoes: 43 w: 1.75 Erro: 3.5973876943680917E-5
+SOR Time: 0:00:00.000 Iteracoes: 114 w: 1.9 Erro: 4.229347106380979E-5
+SOR Time: 0:00:00.012 Iteracoes: 20000 w: 2.0 Erro: 0.0
+W ótimo: 1.0 Iterações: 6
+Gc Time: 0:00:00.000 Iteracoes: 20 Erro 3.107474382356809E-14
+GcC1 Time: 0:00:00.000 Iteracoes: 7 Erro 3.365281687569274E-5
+Processando: ./data/Trefethen_700/Trefethen_700.mtx
+Matriz: 700x700
+SOR Time: 0:00:00.008 Iteracoes: 9 w: 1.0 Erro: 2.067860581665743E-5
+SOR Time: 0:00:00.009 Iteracoes: 13 w: 1.25 Erro: 1.054870181680808E-5
+SOR Time: 0:00:00.018 Iteracoes: 23 w: 1.5 Erro: 2.616536335997413E-5
+SOR Time: 0:00:00.038 Iteracoes: 52 w: 1.75 Erro: 3.91262248661304E-5
+SOR Time: 0:00:00.091 Iteracoes: 135 w: 1.9 Erro: 4.8202197003500065E-5
+SOR Time: 0:00:13.647 Iteracoes: 20000 w: 2.0 Erro: 0.0
+W ótimo: 1.0 Iterações: 9
+Gc Time: 0:00:00.229 Iteracoes: 263 Erro 3.4865484704453974E-7
+GcC1 Time: 0:00:00.024 Iteracoes: 9 Erro 5.2051317655727955E-5
+
+C:\Users\Tiago\Documents\USP\MAP2220\MAP2220 - EP2 - Matriz Esparsa>java -jar ep2map2220.jar
+Processando: ./data/ex33/ex33.mtx
+Matriz: 1733x1733
+SOR Time: 0:01:50.217 Iteracoes: 28058 w: 1.0 Erro: 17.71195586201628
+SOR Time: 0:05:52.618 Iteracoes: 93248 w: 1.25 Erro: 15.815034553949012
+SOR Time: 0:07:48.010 Iteracoes: 120112 w: 1.5 Erro: 17.70556628828452
+SOR Time: 0:07:03.828 Iteracoes: 105607 w: 1.75 Erro: 27.161573145807584
+SOR Time: 0:05:02.406 Iteracoes: 71287 w: 1.9 Erro: 47.13449103762419
+SOR Time: 0:14:01.181 Iteracoes: 200000 w: 2.0 Erro: 0.0
+W ótimo: 1.0 Iterações: 20000
+Gc Time: 0:04:22.917 Iteracoes: 49172 Erro 1.0854338638473042E-5
+GcC1 Time: 0:00:09.419 Iteracoes: 590 Erro 0.0018603138647728347
+Processando: ./data/nos2/nos2.mtx
+Matriz: 957x957
+SOR Time: 0:00:52.938 Iteracoes: 41229 w: 1.0 Erro: 19.35433282382869
+SOR Time: 0:00:47.858 Iteracoes: 37483 w: 1.25 Erro: 18.836225663368797
+SOR Time: 0:00:44.592 Iteracoes: 34841 w: 1.5 Erro: 18.068944011580754
+SOR Time: 0:00:39.121 Iteracoes: 30574 w: 1.75 Erro: 16.423049623870238
+SOR Time: 0:00:29.067 Iteracoes: 22886 w: 1.9 Erro: 12.607472541313546
+SOR Time: 0:04:13.781 Iteracoes: 200000 w: 2.0 Erro: 0.0
+W ótimo: 1.0 Iterações: 20000
+Gc Time: 0:01:01.333 Iteracoes: 37854 Erro 2.2071283939916466E-10
+GcC1 Time: 0:00:10.824 Iteracoes: 2219 Erro 15.074185798847406

@@ -1,0 +1,108 @@
+C:\Users\Tiago\Documents\USP\MAP2220\MAP2220 - EP2 - Matriz Esparsa>java -jar ep2map2220-1.jar
+Processando: ./data/bcsstk01.mtx
+Matriz: 48x48
+SOR Time: 0:00:00.035 Iteracoes: 3525 w: 0.5 Erro: 0.09671836423668029
+SOR Time: 0:00:00.025 Iteracoes: 2446 w: 0.75 Erro: 0.05378832797045487
+SOR Time: 0:00:00.005 Iteracoes: 1744 w: 1.0 Erro: 0.032216281616690455
+SOR Time: 0:00:00.003 Iteracoes: 1222 w: 1.25 Erro: 0.019236292342514595
+SOR Time: 0:00:00.003 Iteracoes: 794 w: 1.5 Erro: 0.01063346376325459
+SOR Time: 0:00:00.001 Iteracoes: 407 w: 1.75 Erro: 0.004314776512471934
+SOR Time: 0:00:00.000 Iteracoes: 142 w: 1.9 Erro: 2.275535398201896E-4
+SOR Time: 0:00:00.001 Iteracoes: 285 w: 1.95 Erro: 1.5371502621021807E-4
+SOR Time: 0:00:00.005 Iteracoes: 1382 w: 1.99 Erro: 2.6617218258877706E-4
+SOR Time: 0:00:00.056 Iteracoes: 20000 w: 2.0 Erro: 0.0
+W ótimo: 1.9 Iterações: 142
+Gc Time: 0:00:00.004 Iteracoes: 164 Erro 4.197381234160588E-12
+GcC1 Time: 0:00:00.003 Iteracoes: 47 Erro 1.763886829710974E-6
+Processando: ./data/bcsstk14.mtx
+Matriz: 1806x1806
+SOR Time: 0:00:27.354 Iteracoes: 6547 w: 0.5 Erro: 0.2671749933029492
+SOR Time: 0:00:18.819 Iteracoes: 4584 w: 0.75 Erro: 0.1707680227447123
+SOR Time: 0:00:14.571 Iteracoes: 3488 w: 1.0 Erro: 0.10594398022219884
+SOR Time: 0:00:11.052 Iteracoes: 2640 w: 1.25 Erro: 0.06426190919582798
+SOR Time: 0:00:07.749 Iteracoes: 1860 w: 1.5 Erro: 0.035821729586382904
+SOR Time: 0:00:04.289 Iteracoes: 1049 w: 1.75 Erro: 0.015152722862157094
+SOR Time: 0:00:04.273 Iteracoes: 1049 w: 1.9 Erro: 0.0017291497412721616
+SOR Time: 0:00:08.139 Iteracoes: 1994 w: 1.95 Erro: 0.0029979396195537874
+SOR Time: 0:00:39.546 Iteracoes: 9685 w: 1.99 Erro: 0.0035538015303156656
+SOR Time: 0:01:21.525 Iteracoes: 20000 w: 2.0 Erro: 0.0
+W ótimo: 1.9 Iterações: 1049
+Gc Time: 0:01:43.290 Iteracoes: 19455 Erro 4.2973742300712306E-11
+GcC1 Time: 0:00:04.511 Iteracoes: 283 Erro 0.002114503810864872
+Processando: ./data/bcsstm22.mtx
+Matriz: 138x138
+SOR Time: 0:00:00.000 Iteracoes: 17 w: 0.5 Erro: 8.962509250251246E-5
+SOR Time: 0:00:00.000 Iteracoes: 10 w: 0.75 Erro: 1.120313656285304E-5
+SOR Time: 0:00:00.000 Iteracoes: 2 w: 1.0 Erro: 4.2998752849492583E-16
+SOR Time: 0:00:00.000 Iteracoes: 10 w: 1.25 Erro: 1.1203136562796335E-5
+SOR Time: 0:00:00.000 Iteracoes: 19 w: 1.5 Erro: 2.2406273125479263E-5
+SOR Time: 0:00:00.001 Iteracoes: 44 w: 1.75 Erro: 3.737964155027533E-5
+SOR Time: 0:00:00.003 Iteracoes: 118 w: 1.9 Erro: 4.683339669116792E-5
+SOR Time: 0:00:00.005 Iteracoes: 242 w: 1.95 Erro: 4.7758647918988304E-5
+SOR Time: 0:00:00.026 Iteracoes: 1232 w: 1.99 Erro: 4.9260553502391306E-5
+SOR Time: 0:00:00.377 Iteracoes: 20000 w: 2.0 Erro: 0.0
+W ótimo: 1.0 Iterações: 2
+Gc Time: 0:00:00.001 Iteracoes: 17 Erro 1.5807012202325035
+GcC1 Time: 0:00:00.001 Iteracoes: 1 Erro 4.777830307245437E-15
+Processando: ./data/bcsstm24.mtx
+Matriz: 3562x3562
+SOR Time: 0:00:00.312 Iteracoes: 20 w: 0.5 Erro: 5.691766094803277E-5
+SOR Time: 0:00:00.172 Iteracoes: 11 w: 0.75 Erro: 1.4229415236780318E-5
+SOR Time: 0:00:00.035 Iteracoes: 2 w: 1.0 Erro: 2.1585202619993173E-15
+SOR Time: 0:00:00.175 Iteracoes: 11 w: 1.25 Erro: 1.4229415237044468E-5
+SOR Time: 0:00:00.329 Iteracoes: 21 w: 1.5 Erro: 2.8458830473768978E-5
+SOR Time: 0:00:00.788 Iteracoes: 50 w: 1.75 Erro: 3.3799488435672285E-5
+SOR Time: 0:00:02.080 Iteracoes: 134 w: 1.9 Erro: 4.4090317124269654E-5
+SOR Time: 0:00:04.271 Iteracoes: 274 w: 1.95 Erro: 4.700183425931023E-5
+SOR Time: 0:00:21.608 Iteracoes: 1393 w: 1.99 Erro: 4.9621859221368294E-5
+SOR Time: 0:05:10.094 Iteracoes: 20000 w: 2.0 Erro: 0.0
+W ótimo: 1.0 Iterações: 2
+Gc Time: 0:01:24.394 Iteracoes: 4188 Erro 8.120572091035426
+GcC1 Time: 0:00:00.121 Iteracoes: 1 Erro 9.38778750585887E-15
+Processando: ./data/bcsstk16.mtx
+Matriz: 4884x4884
+SOR Time: 0:01:11.235 Iteracoes: 2428 w: 0.5 Erro: 0.03509120934519367
+SOR Time: 0:00:43.057 Iteracoes: 1466 w: 0.75 Erro: 0.01946634932717004
+SOR Time: 0:00:27.586 Iteracoes: 941 w: 1.0 Erro: 0.011620732663150245
+SOR Time: 0:00:17.601 Iteracoes: 601 w: 1.25 Erro: 0.006870893558418577
+SOR Time: 0:00:10.394 Iteracoes: 354 w: 1.5 Erro: 0.003703670986387156
+SOR Time: 0:00:04.320 Iteracoes: 147 w: 1.75 Erro: 0.001289968078966124
+SOR Time: 0:00:06.439 Iteracoes: 220 w: 1.9 Erro: 4.5264066987006516E-4
+SOR Time: 0:00:12.143 Iteracoes: 414 w: 1.95 Erro: 5.927757133484348E-4
+SOR Time: 0:00:54.038 Iteracoes: 1848 w: 1.99 Erro: 6.517638589325835E-4
+SOR Time: 0:09:44.849 Iteracoes: 20000 w: 2.0 Erro: 0.0
+W ótimo: 1.75 Iterações: 147
+Gc Time: 0:00:23.797 Iteracoes: 628 Erro 6.64913199729605E-13
+GcC1 Time: 0:00:16.391 Iteracoes: 143 Erro 7.134708257126694E-4
+
+C:\Users\Tiago\Documents\USP\MAP2220\MAP2220 - EP2 - Matriz Esparsa>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
